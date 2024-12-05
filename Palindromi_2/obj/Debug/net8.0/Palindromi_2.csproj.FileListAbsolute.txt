@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\bin\Debug\net8.0\Palindromi_2.exe
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\bin\Debug\net8.0\Palindromi_2.deps.json
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\bin\Debug\net8.0\Palindromi_2.runtimeconfig.json
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\bin\Debug\net8.0\Palindromi_2.dll
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\bin\Debug\net8.0\Palindromi_2.pdb
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.AssemblyInfo.cs
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.dll
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\refint\Palindromi_2.dll
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.pdb
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\Palindromi_2.genruntimeconfig.cache
+C:\Users\User\source\repos\DrPalindromi\Palindromi_2\obj\Debug\net8.0\ref\Palindromi_2.dll
